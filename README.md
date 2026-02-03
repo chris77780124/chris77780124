@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi there, I'm [Chris Stephens] 👋
+# Hi there, I'm Chris Stephens 👋
 
 I’m an aspiring Endpoint Engineer with a background in Graphic Design spanning 20 years. I've designed album covers, websites, and visual materials for local Denver bands. Alongside my design career, I hold 3 AI certifications and have a huge passion for perfecting prompt engineering and AI image creation.
 
