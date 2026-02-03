@@ -2,7 +2,7 @@
 
 # Hi there, I'm Chris Stephens 👋
 
-I’m an aspiring Endpoint Engineer with a background in Graphic Design spanning 20 years. I've designed album covers, websites, and visual materials for local Denver bands. Alongside my design career, I hold 3 AI certifications and have a huge passion for perfecting prompt engineering and AI image creation.
+I’m an aspiring Mac Endpoint Engineer with a 8 yeras of professional experience with a design background in Graphic Design & Web Design spanning 20 years. I've designed album covers, websites, and visual materials for local Denver bands. Alongside my design career, I hold 3 AI certifications and have a huge passion for perfecting prompt engineering and AI image creation.
 
 With over 13 years of broad IT experience specializing in endpoint engineering, secure infrastructure management, and user-focused solutions, I bring a strong blend of creative and technical expertise. I have a particular passion for locking down Macs using bash and Python scripting to enhance security and automate workflows effectively.
 
