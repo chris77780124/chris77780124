@@ -14,7 +14,7 @@ With over 13 years of broad IT experience specializing in endpoint engineering, 
 - 🌱 Passionate about endpoint security, automation, and scripting with Bash and Python.
 - 👯 Experienced in deploying secure, compliant infrastructures in regulated environments.
 - 💬 Ask me about endpoint engineering, Mac security, AI image creation, or video editing.
-- 📫 How to reach me: [your email] | [LinkedIn link] | [Twitter, if any]
+- 📫 How to reach me: Chris | https://www.linkedin.com/in/chris-stephens-sys-admin | (https://x.com/Chris77780124)
 - ⚡ Fun fact: I’ve designed for the vibrant Denver music scene and love integrating creativity with technology.
 
 ---
@@ -72,4 +72,4 @@ Thank you for visiting my profile! Feel free to connect or follow along as I sha
 
 ---
 
-*This README was crafted with ❤️*
+This README was crafted with ❤️ 
